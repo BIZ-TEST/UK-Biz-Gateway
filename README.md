@@ -46,9 +46,7 @@ JSON
   "address": "Cms Cameron Mckenna Llp Cannon Place",
   "created_at": "1862-10-25"
 }
-💰 商业授权与 Key 申请
-目前该网关正在进行这一周的压力测试，当前“约克基站”累计处理单量已达 3。
-
+💰 商业授权与 Key 申请:
 个人/测试 Key：请在 Issue 中留言。
 
 商业版/高频 Key：支持按量付费（£0.10/单），提供专属高带宽通道。
